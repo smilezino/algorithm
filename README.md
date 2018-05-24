@@ -13,3 +13,4 @@ Algorithm Solution
 |6|[Z字形变换](https://leetcode-cn.com/problems/zigzag-conversion)|[ZigzagConversion.java](./src/main/java/leetcode/ZigzagConversion.java)|Medium|
 |7|[反转整数](https://leetcode-cn.com/problems/reverse-integer)|[ReverseInteger.java](./src/main/java/leetcode/ReverseInteger.java)|Easy|
 |8|[字符串转整数 (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi)|[StringToIntegerAtoi.java](./src/main/java/leetcode/StringToIntegerAtoi.java)|Medium|
+|9|[回文数](https://leetcode-cn.com/problems/palindrome-number)|[PalindromeNumber.java](./src/main/java/leetcode/PalindromeNumber.java)|Easy|
