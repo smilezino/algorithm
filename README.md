@@ -18,3 +18,4 @@ Algorithm Solution
 |11|[盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water)|[ContainerWithMostWater.java](./src/main/java/leetcode/ContainerWithMostWater.java)|Medium|
 |12|[整数转罗马数字](https://leetcode-cn.com/problems/integer-to-roman)|[IntegerToRoman.java](./src/main/java/leetcode/IntegerToRoman.java)|Medium|
 |13|[罗马数字转整数](https://leetcode-cn.com/problems/roman-to-integer)|[RomanToInteger.java](./src/main/java/leetcode/RomanToInteger.java)|Easy|
+|14|[最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix)|[LongestCommonPrefix.java](./src/main/java/leetcode/LongestCommonPrefix.java)|Easy|
