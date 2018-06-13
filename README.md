@@ -22,3 +22,4 @@ Algorithm Solution
 |15|[三数之和](https://leetcode-cn.com/problems/3sum)|[ThreeSum.java](./src/main/java/leetcode/ThreeSum.java)|Medium|
 |16|[最接近的三数之和](https://leetcode-cn.com/problems/3sum-closest)|[ThreeSumClosest.java](./src/main/java/leetcode/ThreeSumClosest.java)|Medium|
 |17|[电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number)|[LetterCombinationsOfAPhoneNumber.java](./src/main/java/leetcode/LetterCombinationsOfAPhoneNumber.java)|Medium|
+|18|[四数之和](https://leetcode-cn.com/problems/4sum)|[FourSum.java](./src/main/java/leetcode/FourSum.java)|Medium|
